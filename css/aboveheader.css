@@ -1,0 +1,27 @@
+html, body{margin:0; padding:0;}
+*{box-sizing:border-box;}
+
+/* body */
+body{
+    overflow-x: hidden;
+}
+
+
+
+.wb-con-bg
+{
+    background-color: #03aef3;
+    height:50px;
+    padding: 1rem 5rem;
+}
+
+.wb-fa-icon
+{
+    color:white;
+}
+
+.wb-neg-gap
+{
+    margin-top: -4px;
+}
+
