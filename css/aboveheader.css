@@ -20,8 +20,35 @@ body{
     color:white;
 }
 
+.wb-fa-icon2
+{
+    color:#03aef3;
+    font-size: 14px;
+}
+
 .wb-neg-gap
 {
     margin-top: -4px;
 }
 
+.wb-soc-head
+{
+    width:25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 0 8px;
+    margin-top: -4px;
+    align-items: center;
+}
+
+.wb-soc-head2
+{
+    width:25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 0 6.6px;
+    margin-top: -4px;
+    align-items: center;
+}
